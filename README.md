@@ -11,8 +11,7 @@ All my porfolio projects You can find in my repositories ;)
 </p>
 
 * 🌍  Based in Poznan, Poland.
-* 🤝  Open to collaborating on any web projects.
-* 🧠  Currently learning React.js & German language.
+* 🤝  Currently working on my portfolio projects library.
 * ✉️  Contact me at: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/volodymyr-filon)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:volodymyrfilon1312@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-volodymyrfilon-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/wlodeeek1312)
 
 
@@ -45,12 +44,17 @@ All my porfolio projects You can find in my repositories ;)
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 
 
-
 ---
+### ☕ Support Me:
+
+<a href="https://www.buymeacoffee.com/volodymyr26"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+<!-- ---
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/VolodymyrFilon/badges/large)
 
 ### ⚙️ GitHub badges:
-<a href="https://github.com/volodymyrfilon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodymyrfilon&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/volodymyrfilon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodymyrfilon&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrfilon)
