@@ -1,6 +1,6 @@
 ### Hi! My name is Volodymyr 👋
 
-Fullstack Web Developer
+Frontend Web Developer
 --------------------------------------
 All my porfolio projects You can find in my repositories.
 
