@@ -3,7 +3,7 @@
 ## Frontend Web Developer
 
 <p align="center">
- <img width="680" src="assets/github-snake.svg" alt="Snake"/>
+ <img width="700" src="assets/github-snake.svg" alt="Snake GIF"/>
 </p>
 
 - 👩‍💻 I'm driven by a passion for creating user-friendly and visually compelling websites. My journey involves translating ideas into digital experiences through the art of code and design.
@@ -29,18 +29,18 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-3b3e51.svg?style=for-the-badge&logo=tailwind-css)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Gulp](https://img.shields.io/badge/gulp-%23323330.svg?style=for-the-badge&logo=gulp)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js)
 
-![TypeScript](https://img.shields.io/badge/typescript-4c4d44.svg?style=for-the-badge&logo=typescript)
-![Next JS](https://img.shields.io/badge/Next-4c4d44?style=for-the-badge&logo=next.js)
 ![Vue JS](https://img.shields.io/badge/Vue-4c4d44?style=for-the-badge&logo=vue.js)
+![Vuex](https://img.shields.io/badge/vuex-4c4d44.svg?style=for-the-badge&logo=vue.js)
+![Next JS](https://img.shields.io/badge/Next-4c4d44?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/redux-4c4d44.svg?style=for-the-badge&logo=redux)
 
 <!-- ![Python](https://img.shields.io/badge/python-54626F.svg?style=for-the-badge&logo=python&logoColor=FFD43B) -->
 <!-- ![Django](https://img.shields.io/badge/django-54626F.svg?style=for-the-badge&logo=django&logoColor=092e20) -->
 
+![NodeJS](https://img.shields.io/badge/node.js-54626F?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-54626F.svg?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-54626F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -52,6 +52,9 @@
 ![Notion](https://img.shields.io/badge/notion-3b3e51.svg?style=for-the-badge&logo=notion)
 ![GitKraken](https://img.shields.io/badge/GitKraken-3b3e51.svg?style=for-the-badge&logo=GitKraken)
 ![Discord](https://img.shields.io/badge/discord-3b3e51.svg?style=for-the-badge&logo=discord)
+
+![Win](https://img.shields.io/badge/win_os-3b3e51.svg?style=for-the-badge&logo=windows)
+![Mac](https://img.shields.io/badge/mac_os-3b3e51.svg?style=for-the-badge&logo=macos)
 
 ---
 
