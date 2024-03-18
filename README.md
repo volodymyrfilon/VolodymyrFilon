@@ -26,15 +26,16 @@
 ![HTML5](https://img.shields.io/badge/html5-3b3e51.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-3b3e51.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC)
 ![SASS](https://img.shields.io/badge/sass-3b3e51.svg?style=for-the-badge&logo=sass)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-3b3e51.svg?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/javascript-3b3e51.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
+![React JS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/next-%23323330?style=for-the-badge&logo=next.js)
+![Vue JS](https://img.shields.io/badge/vue_2-%23323330?style=for-the-badge&logo=vue.js)
 
-![Vue JS](https://img.shields.io/badge/Vue-4c4d44?style=for-the-badge&logo=vue.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-4c4d44.svg?style=for-the-badge&logo=tailwind-css)
+![Vuetify](https://img.shields.io/badge/vuetify-4c4d44.svg?style=for-the-badge&logo=vuetify&logoColor=1697F6)
 ![Vuex](https://img.shields.io/badge/vuex-4c4d44.svg?style=for-the-badge&logo=vue.js)
-![Next JS](https://img.shields.io/badge/Next-4c4d44?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/redux-4c4d44.svg?style=for-the-badge&logo=redux)
 
 <!-- ![Python](https://img.shields.io/badge/python-54626F.svg?style=for-the-badge&logo=python&logoColor=FFD43B) -->
@@ -46,15 +47,15 @@
 
 ### Tools:
 
-![Git](https://img.shields.io/badge/git-3b3e51.svg?style=for-the-badge&logo=git&)
+![Win](https://img.shields.io/badge/win_os-2d2f39.svg?style=for-the-badge&logo=windows)
+![Mac](https://img.shields.io/badge/mac_os-2d2f39.svg?style=for-the-badge&logo=macos)
+![Git](https://img.shields.io/badge/git-2d2f39.svg?style=for-the-badge&logo=git&)
+![Trello](https://img.shields.io/badge/trello-2d2f39.svg?style=for-the-badge&logo=trello&logoColor=0079bf)
+
 ![Figma](https://img.shields.io/badge/figma-3b3e51.svg?style=for-the-badge&logo=figma&)
-![Trello](https://img.shields.io/badge/trello-3b3e51.svg?style=for-the-badge&logo=trello&logoColor=0079bf)
+![Jira](https://img.shields.io/badge/jira-3b3e51.svg?style=for-the-badge&logo=jira&logoColor=0079bf)
 ![Notion](https://img.shields.io/badge/notion-3b3e51.svg?style=for-the-badge&logo=notion)
 ![GitKraken](https://img.shields.io/badge/GitKraken-3b3e51.svg?style=for-the-badge&logo=GitKraken)
-![Discord](https://img.shields.io/badge/discord-3b3e51.svg?style=for-the-badge&logo=discord)
-
-![Win](https://img.shields.io/badge/win_os-3b3e51.svg?style=for-the-badge&logo=windows)
-![Mac](https://img.shields.io/badge/mac_os-3b3e51.svg?style=for-the-badge&logo=macos)
 
 ---
 
