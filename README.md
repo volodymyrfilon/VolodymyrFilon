@@ -14,7 +14,7 @@
 
 ### 🤝 Contact Me:
 
-[![Gmail](https://img.shields.io/badge/gmail-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=ff2e00)](mailto:volodymyrfilon1312@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=ff2e00)](mailto:volodymyrfilondev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-filon/)
 [![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/BALDEJ#4032)
 [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wlodeeek1312)
@@ -31,12 +31,12 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
 ![React JS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/next-%23323330?style=for-the-badge&logo=next.js)
-![Vue JS](https://img.shields.io/badge/vue_2-%23323330?style=for-the-badge&logo=vue.js)
+![Vue JS](https://img.shields.io/badge/vue-%23323330?style=for-the-badge&logo=vue.js)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-4c4d44.svg?style=for-the-badge&logo=tailwind-css)
 ![Vuetify](https://img.shields.io/badge/vuetify-4c4d44.svg?style=for-the-badge&logo=vuetify&logoColor=1697F6)
-![Vuex](https://img.shields.io/badge/vuex-4c4d44.svg?style=for-the-badge&logo=vue.js)
 ![Redux](https://img.shields.io/badge/redux-4c4d44.svg?style=for-the-badge&logo=redux)
+![Vuex](https://img.shields.io/badge/vuex-4c4d44.svg?style=for-the-badge&logo=vue.js)
 
 <!-- ![Python](https://img.shields.io/badge/python-54626F.svg?style=for-the-badge&logo=python&logoColor=FFD43B) -->
 <!-- ![Django](https://img.shields.io/badge/django-54626F.svg?style=for-the-badge&logo=django&logoColor=092e20) -->
@@ -91,6 +91,6 @@
 
 ---
 
-### ☕ Support Me With a Cup of Coffee:
+### ☕ Support Me with a cup of coffee:
 
 <a href="https://www.buymeacoffee.com/volodymyr26"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
