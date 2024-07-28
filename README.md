@@ -7,7 +7,7 @@
 </p>
 
 - 👩‍💻 I'm driven by a passion for creating user-friendly and visually compelling websites. My journey involves translating ideas into digital experiences through the art of code and design.
-- 😇  Currently working on Volunteer project for Ukrainian humanitarian organization.
+- 😇  Currently working on Customerst Loyalty Software in Savvy Software.
 - 🌍  Based in Poznan, Poland.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrfilon)
