@@ -1,14 +1,14 @@
 # Hi! My name is Volodymyr 👋
 
-## Frontend Web Developer
+## Software Engineer • Frontend React Developer
 
 <p align="center">
  <img width="700" src="assets/github-snake.svg" alt="Snake GIF"/>
 </p>
 
 - 👩‍💻 I'm driven by a passion for creating user-friendly and visually compelling websites. My journey involves translating ideas into digital experiences through the art of code and design.
-- 😇  Currently working on Customerst Loyalty Software in Savvy Software.
-- 🌍  Based in Poznan, Poland.
+- 😇 Sofware Engineer at Akveo.
+- 🌍 Code ‘n Pixels Island.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrfilon)
 
@@ -16,8 +16,8 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=ff2e00)](mailto:volodymyrfilondev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-filon/)
-[![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/BALDEJ#4032)
-[![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wlodeeek1312)
+[![Medium](https://img.shields.io/badge/medium-0A66C2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@volodymyrdev)
+[![X](https://img.shields.io/badge/twitter-0A66C2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/volodymyrfilon)
 
 ---
 
@@ -26,21 +26,21 @@
 ![HTML5](https://img.shields.io/badge/html5-3b3e51.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-3b3e51.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC)
 ![SASS](https://img.shields.io/badge/sass-3b3e51.svg?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/javascript-3b3e51.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-3b3e51.svg?style=for-the-badge&logo=tailwind-css)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript)
-![React JS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/next-%23323330?style=for-the-badge&logo=next.js)
-![Vue JS](https://img.shields.io/badge/vue-%23323330?style=for-the-badge&logo=vue.js)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-4c4d44.svg?style=for-the-badge&logo=tailwind-css)
-![Vuetify](https://img.shields.io/badge/vuetify-4c4d44.svg?style=for-the-badge&logo=vuetify&logoColor=1697F6)
+![React JS](https://img.shields.io/badge/react-4c4d44.svg?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/next-4c4d44?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/redux-4c4d44.svg?style=for-the-badge&logo=redux)
+
+![Vue JS](https://img.shields.io/badge/vue-4c4d44?style=for-the-badge&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/nuxt-4c4d44?style=for-the-badge&logo=nuxt.js)
 ![Vuex](https://img.shields.io/badge/vuex-4c4d44.svg?style=for-the-badge&logo=vue.js)
 
-<!-- ![Python](https://img.shields.io/badge/python-54626F.svg?style=for-the-badge&logo=python&logoColor=FFD43B) -->
-<!-- ![Django](https://img.shields.io/badge/django-54626F.svg?style=for-the-badge&logo=django&logoColor=092e20) -->
-
+![Django](https://img.shields.io/badge/django-54626F.svg?style=for-the-badge&logo=django&logoColor=092e20)
 ![NodeJS](https://img.shields.io/badge/node.js-54626F?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-54626F.svg?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-54626F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -93,4 +93,4 @@
 
 ### ☕ Support Me with a cup of coffee:
 
-<a href="https://www.buymeacoffee.com/volodymyrdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/volodymyrdev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" /></a>
