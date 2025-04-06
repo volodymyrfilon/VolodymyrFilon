@@ -6,17 +6,16 @@
  <img width="700" src="assets/github-snake.svg" alt="Snake GIF"/>
 </p>
 
-- 👩‍💻 I'm driven by a passion for creating user-friendly and visually compelling websites. My journey involves translating ideas into digital experiences through the art of code and design.
-- 😇 Sofware Engineer at Akveo.
+<!-- - 👩‍💻 I'm driven by a passion for creating user-friendly and visually compelling websites. My journey involves translating ideas into digital experiences through the art of code and design. -->
 - 🌍 Code ‘n Pixels Island.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=volodymyrfilon)
 
 ### 🤝 Contact Me:
 
-[![Gmail](https://img.shields.io/badge/gmail-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=ff2e00)](mailto:volodymyrfilondev@gmail.com)
+<!-- [![Gmail](https://img.shields.io/badge/gmail-f5f5f5.svg?style=for-the-badge&logo=gmail&logoColor=ff2e00)](mailto:volodymyrfilondev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volodymyr-filon/)
-[![Medium](https://img.shields.io/badge/medium-0A66C2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@volodymyrdev)
+[![Medium](https://img.shields.io/badge/medium-0A66C2.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@volodymyrdev) -->
 [![X](https://img.shields.io/badge/twitter-0A66C2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/volodymyrfilon)
 
 ---
